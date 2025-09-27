@@ -24,24 +24,10 @@ My work includes:
 - **Data Handling:** pandas, NumPy, feature engineering, preprocessing pipelines  
 - **Version Control:** Git, GitHub  
 
----
-
-## 🌟 Projects & Highlights
-- **Student Performance Prediction** – Predicting student outcomes with regression models; preprocessing pipelines with scaling and encoding via `ColumnTransformer`.  
-- **Network Security / Phishing Detection** – ML-powered URL classification with real-time web app deployment.  
-- Modular pipeline design for **production-ready AI applications**.  
-
----
-
 ## 📬 Let’s Connect
 - **GitHub:** [harshitdubey2001](https://github.com/harshitdubey2001)  
 - **LinkedIn:** [Harshit Dubey](https://www.linkedin.com/in/harshit-dubey)  
 - **Email:** harshitdubey7896@gmail.com  
 
----
 
-### Optional Enhancements
-- **GitHub Stats badges:** Contribution stats, top languages, streaks  
-- **Pinned Projects:** Showcase your key ML & MLOps projects  
-- **Profile Banner / Picture:** Gives a professional look for recruiters  
 
