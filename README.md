@@ -19,7 +19,7 @@ My work includes:
 ## 💡 Skills & Tools
 - **Languages:** Python  
 - **ML / AI:** scikit-learn, CatBoost, XGBoost, TensorFlow, PyTorch  
-- **MLOps:** MLflow, DagsHub, Docker (optional), CI/CD integration  
+- **MLOps:** MLflow, DagsHub, Docker, CI/CD integration  
 - **Deployment / APIs:** FastAPI, Flask, Streamlit  
 - **Data Handling:** pandas, NumPy, feature engineering, preprocessing pipelines  
 - **Version Control:** Git, GitHub  
