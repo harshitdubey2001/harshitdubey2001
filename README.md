@@ -2,7 +2,7 @@
 
 **Generative AI Engineer | LLM & RAG Systems Developer**
 
-📧 [harshitdubey7896@gmail.com](mailto:harshitdubey7896@gmail.com)  |  🔗 linkedin.com/in/harshit-dubey  |  💻 github.com/harshitdubey2001
+📧 [harshitdubey7896@gmail.com](mailto:harshitdubey7896@gmail.com)  |  🔗 [Harshit Dubey](https://www.linkedin.com/in/harshit-dubey)   |  💻 github.com/harshitdubey2001
 
 ---
 
